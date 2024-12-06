@@ -1,0 +1,123 @@
+<html lang="ar" dir="rtl"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لوحة إدارة الخوادم</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #1a1a2e;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 10px 0 0;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 1000px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            color: #1a1a2e;
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        section p {
+            line-height: 1.6;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .feature {
+            flex: 1 1 calc(50% - 20px);
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #1a1a2e;
+            color: #fff;
+            margin-top: 20px;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>لوحة إدارة الخوادم</h1>
+        <p>إدارة الخوادم بسهولة وكفاءة</p>
+    </header>
+    <section>
+        <h2>المميزات</h2>
+        <div class="features">
+            <div class="feature">
+                <h3>أداء عالي</h3>
+                <p>استمتع بأداء خوادم لا مثيل له بفضل تصميمنا المتطور.</p>
+            </div>
+            <div class="feature">
+                <h3>آمن بالكامل</h3>
+                <p>أمانك هو أولويتنا، مع حماية من الاختراقات والثغرات.</p>
+            </div>
+            <div class="feature">
+                <h3>واجهة حديثة</h3>
+                <p>لوحة تحكم جذابة وسهلة الاستخدام لكل المستويات.</p>
+            </div>
+            <div class="feature">
+                <h3>مرونة كاملة</h3>
+                <p>يدعم مجموعة واسعة من التطبيقات والبروتوكولات.</p>
+            </div>
+        </div>
+    </section>
+    <section>
+        <h2>كيفية العمل</h2>
+        <p>ابدأ الآن في 3 خطوات بسيطة:</p>
+        <ol>
+            <li>ثبت النظام: ابدأ بتثبيت اللوحة على خادمك الخاص.</li>
+            <li>أضف الخوادم: قم بإضافة خوادمك وإعدادها في دقائق.</li>
+            <li>استمتع بالإدارة: تحكم كامل في خوادمك بسهولة واحترافية.</li>
+        </ol>
+    </section>
+    <section>
+        <h2>آراء العملاء</h2>
+        <p>"أفضل منصة إدارة خوادم استخدمتها على الإطلاق!" – محمد العلي</p>
+        <p>"موثوق، سريع، وسهل الاستخدام. رائع جدًا!" – فاطمة عبدالله</p>
+    </section>
+    <section>
+        <h2>التوثيق</h2>
+        <p>سواء كنت مبتدئًا أو خبيرًا، ستجد كل ما تحتاجه في دليلنا الشامل. <a href="#">ابدأ بالتوثيق</a></p>
+    </section>
+    <section>
+        <h2>التحميل والتثبيت</h2>
+        <p>جاهز للبدء؟ <a href="#">تحميل الآن</a></p>
+    </section>
+    <footer>
+        <p>© 2024 لوحة إدارة الخوادم. جميع الحقوق محفوظة.</p>
+    </footer>
+
+
+</body></html>
